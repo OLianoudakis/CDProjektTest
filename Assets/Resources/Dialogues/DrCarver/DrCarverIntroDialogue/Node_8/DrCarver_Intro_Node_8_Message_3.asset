@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85b07d2fd5a100746aaf1d6a0b18857a, type: 3}
+  m_Name: DrCarver_Intro_Node_8_Message_3
+  m_EditorClassIdentifier: 
+  m_characterName: Dr. Carver
+  m_messageText: I promise it will be worth the while.
+  m_dialogueButtons:
+  - {fileID: 11400000, guid: 7f295778b05bdf849a9fe81099094aa2, type: 2}
+  - {fileID: 11400000, guid: d701c6933463bb4429814b0c03558786, type: 2}

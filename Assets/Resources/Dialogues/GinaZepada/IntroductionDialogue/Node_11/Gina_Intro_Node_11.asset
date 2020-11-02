@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90b793bf0194db04d83ab1b6be8aa873, type: 3}
+  m_Name: Gina_Intro_Node_11
+  m_EditorClassIdentifier: 
+  m_messages:
+  - {fileID: 11400000, guid: af8b2989402faa84695ef9f6bb3889b7, type: 2}
+  - {fileID: 11400000, guid: 703575a8eb8739946a8ec6a8ff5420dd, type: 2}
+  - {fileID: 11400000, guid: 7063ee0eb504f874e98c709983d33c1a, type: 2}
+  - {fileID: 11400000, guid: 08597e301555c4e43abec1fe4a640e68, type: 2}
+  - {fileID: 11400000, guid: bec305ca1737cd749a169da2bfd1f99f, type: 2}

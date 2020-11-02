@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 743baa2d46ec8f44d8cf062332f354b9, type: 3}
+  m_Name: Harry_Dialogue
+  m_EditorClassIdentifier: 
+  m_allNodes:
+  - {fileID: 11400000, guid: 501dd56c1e60daf48bc0e3a9bbc9cddf, type: 2}
+  - {fileID: 11400000, guid: 5abb733305efac74584fe79ed77e8587, type: 2}
+  - {fileID: 11400000, guid: 5cf5c5df791e48f4fb42bf32e4bbb1af, type: 2}
+  - {fileID: 11400000, guid: 501b44d974aee8648b6918cd069d303a, type: 2}
+  - {fileID: 11400000, guid: f289cf557a85506469fbab0562913756, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85b07d2fd5a100746aaf1d6a0b18857a, type: 3}
+  m_Name: Gina_Intro_Node_5_Message_2
+  m_EditorClassIdentifier: 
+  m_characterName: Gina
+  m_messageText: So... what do you wanna know?
+  m_dialogueButtons:
+  - {fileID: 11400000, guid: 63605c4a132e72d43b92e5802663fc30, type: 2}
+  - {fileID: 11400000, guid: 1bbcec18ac045c740b094d4b86f9d52d, type: 2}
+  - {fileID: 11400000, guid: 1f2071b2bf8d6354fa029945e2b09bd3, type: 2}

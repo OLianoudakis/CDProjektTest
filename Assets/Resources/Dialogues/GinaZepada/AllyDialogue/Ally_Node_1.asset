@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90b793bf0194db04d83ab1b6be8aa873, type: 3}
+  m_Name: Ally_Node_1
+  m_EditorClassIdentifier: 
+  m_messages:
+  - {fileID: 11400000, guid: 39f10500b8bc16c469b2d264307979d9, type: 2}
+  - {fileID: 11400000, guid: be6c9c280ee22d5409dd5b8af8bc71b8, type: 2}
+  - {fileID: 11400000, guid: c6c2a78a8c22b0b4c974eeb60d781825, type: 2}
+  - {fileID: 11400000, guid: 1f5a9427c792ff446a6c4a1537cf2e24, type: 2}
+  - {fileID: 11400000, guid: ab4380999c725fd4caf163d99ab54e4d, type: 2}
+  - {fileID: 11400000, guid: c48c75e8a24f6914fa1433b6fcb1c313, type: 2}
+  - {fileID: 11400000, guid: 59e5e0997d5079d42b894f934c7143a3, type: 2}
+  - {fileID: 11400000, guid: b11b4187b03ed0d4f8104a89078664e6, type: 2}
+  - {fileID: 11400000, guid: db57c5f78ebe21c4f804cbcac47a4b79, type: 2}

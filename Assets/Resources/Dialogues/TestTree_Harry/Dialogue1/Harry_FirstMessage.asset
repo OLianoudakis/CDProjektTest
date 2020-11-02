@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85b07d2fd5a100746aaf1d6a0b18857a, type: 3}
+  m_Name: Harry_FirstMessage
+  m_EditorClassIdentifier: 
+  m_characterName: Harry
+  m_messageText: Hello, choose 1,2.3 or 4
+  m_dialogueButtons:
+  - {fileID: 11400000, guid: 3af7552130f7e4149a14cb30ef918928, type: 2}
+  - {fileID: 11400000, guid: 37496ed626c18df46a1acd5daf09f58b, type: 2}
+  - {fileID: 11400000, guid: 7db51427da525a94e94b9a4981e2093b, type: 2}
+  - {fileID: 11400000, guid: 72eeda55b91d45c4d93b3f74736b4bf7, type: 2}

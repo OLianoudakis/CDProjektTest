@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85b07d2fd5a100746aaf1d6a0b18857a, type: 3}
+  m_Name: Rico_Intro_Node_1_Message_1
+  m_EditorClassIdentifier: 
+  m_characterName: Rico
+  m_messageText: Whaddup?
+  m_dialogueButtons:
+  - {fileID: 11400000, guid: 3b372d9c47bb28b4d9a0a78643b07933, type: 2}
+  - {fileID: 11400000, guid: e4f1172ac353c9445a1d779ded7b634a, type: 2}
+  - {fileID: 11400000, guid: fdca4f64d92bb904bb4e06c32a201853, type: 2}

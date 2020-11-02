@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 743baa2d46ec8f44d8cf062332f354b9, type: 3}
+  m_Name: RicoIntroDialogue
+  m_EditorClassIdentifier: 
+  m_allNodes:
+  - {fileID: 11400000, guid: c9ef1c05aefc5ba43bbbb53f4694f881, type: 2}
+  - {fileID: 11400000, guid: 9947ca9446b037644aae2bc2e409b302, type: 2}
+  - {fileID: 11400000, guid: eeaa9aa3a72ec514791461bbe9604931, type: 2}
+  - {fileID: 11400000, guid: b00199574ce26b644ad3aa06b58ed95d, type: 2}
+  - {fileID: 11400000, guid: 0110dc8232fa00644be8ce0ae32ece4c, type: 2}
+  - {fileID: 11400000, guid: 3c1fe4d7e23fabc4baeb06242b3f3355, type: 2}
+  - {fileID: 11400000, guid: b3adf1d0e331237479fdd59bfea59278, type: 2}
+  - {fileID: 11400000, guid: 98b06db1d8f006542a426036bf0927f0, type: 2}
+  - {fileID: 11400000, guid: 77e346f0d24926f4a8d38acd0996bc11, type: 2}
+  - {fileID: 11400000, guid: 4a8d80b415317154a96043ec5917580c, type: 2}
+  - {fileID: 11400000, guid: d89369db8a589b741beef3e2e98b3460, type: 2}
+  - {fileID: 11400000, guid: 962361b7ff26b61478f779518ad885f7, type: 2}
+  - {fileID: 11400000, guid: cadf0aac01e148d4cb951fd007a66916, type: 2}
+  - {fileID: 11400000, guid: 8296177104586214a8580350df3be528, type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85b07d2fd5a100746aaf1d6a0b18857a, type: 3}
+  m_Name: Rico_Intro_Node_11_Message_2
+  m_EditorClassIdentifier: 
+  m_characterName: Rico
+  m_messageText: Is it bothering you?
+  m_dialogueButtons:
+  - {fileID: 11400000, guid: 3424496674b35aa4180554a7ca0d0e20, type: 2}
+  - {fileID: 11400000, guid: d71be61a89a683d4a8fe5766f0154a7a, type: 2}

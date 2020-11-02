@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 743baa2d46ec8f44d8cf062332f354b9, type: 3}
+  m_Name: MollyAndersonIntroDialogue
+  m_EditorClassIdentifier: 
+  m_allNodes:
+  - {fileID: 11400000, guid: 86a4c5c49eb51e84996110894921ac0f, type: 2}
+  - {fileID: 11400000, guid: f190e3c16986c4049a4a28662706f040, type: 2}
+  - {fileID: 11400000, guid: b534660d9d6f4b940a265ea8f2f33f7d, type: 2}
+  - {fileID: 11400000, guid: 66afe97504d8b4240adfc5003302ba5f, type: 2}
+  - {fileID: 11400000, guid: e7983cc7ca5d2b243b980f00216f79ca, type: 2}
+  - {fileID: 11400000, guid: 030a398543dcf9949a6b83be3d67b624, type: 2}
+  - {fileID: 11400000, guid: bdd510062c139a64b92609fb6e698f37, type: 2}
+  - {fileID: 11400000, guid: e67a8ec90f0e35d4d8aa71d416c5c3d3, type: 2}

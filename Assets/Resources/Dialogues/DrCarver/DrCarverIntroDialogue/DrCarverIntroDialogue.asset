@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 743baa2d46ec8f44d8cf062332f354b9, type: 3}
+  m_Name: DrCarverIntroDialogue
+  m_EditorClassIdentifier: 
+  m_allNodes:
+  - {fileID: 11400000, guid: 10cc413a397fccd45929d7a40615d2dc, type: 2}
+  - {fileID: 11400000, guid: c47d8f8a99904a747838666628d6898e, type: 2}
+  - {fileID: 11400000, guid: 198cf7f20729d17438e4288a467584ca, type: 2}
+  - {fileID: 11400000, guid: 0e943dc227068934c8b2c6e60f331113, type: 2}
+  - {fileID: 11400000, guid: 7630b5c726c7d7348aa9c3229210b0a0, type: 2}
+  - {fileID: 11400000, guid: f9215bc317e5e924a9aae0a62a1fdb80, type: 2}
+  - {fileID: 11400000, guid: 754feb807a7c8874c95836fe56f7b3ad, type: 2}
+  - {fileID: 11400000, guid: 2c3a3570fa5484e42abe8d7374e307cf, type: 2}
+  - {fileID: 11400000, guid: 3a7f135c17ab85e4686513ab13c28767, type: 2}
+  - {fileID: 11400000, guid: 948367e898d67a74c9dc36cd33788b40, type: 2}
+  - {fileID: 11400000, guid: b254d0f90adc745489febe0d2da5b8d3, type: 2}

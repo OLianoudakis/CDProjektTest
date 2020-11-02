@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85b07d2fd5a100746aaf1d6a0b18857a, type: 3}
+  m_Name: DrCarver_Intro_Node_6_Message_7
+  m_EditorClassIdentifier: 
+  m_characterName: Dr. Carver
+  m_messageText: Being a cybergenetics doctor does that.
+  m_dialogueButtons:
+  - {fileID: 11400000, guid: 7f5d473affd84cd45a32e1a8d84b5b44, type: 2}
